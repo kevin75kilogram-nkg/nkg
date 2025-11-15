@@ -1,19 +1,14 @@
 [
   {
-    "thumb": "https://picsum.photos/id/1015/600/400",
-    "full": "https://picsum.photos/id/1015/1600/1067",
-    "category": "nhay",
+    "thumb": "images/IMG_5252.JPG",
+    "full": "images/IMG_5252.JPG",
+    "category": "show",
     "color": "red"
   },
   {
-    "thumb": "https://picsum.photos/id/1016/600/400",
-    "full": "https://picsum.photos/id/1016/1600/1067",
-    "category": "mua",
+    "thumb": "images/IMG_5257.JPG",
+    "full": "images/IMG_5257.JPG",
+    "category": "show",
     "color": "blue"
-  },
-  {
-    "youtube": "dQw4w9WgXcQ",
-    "category": "hientai",
-    "color": "black"
   }
 ]
