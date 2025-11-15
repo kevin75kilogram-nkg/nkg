@@ -1,0 +1,19 @@
+[
+    {
+        "thumb": "images/demo1_thumb.jpg",
+        "full": "images/demo1.jpg",
+        "category": "nhay",
+        "color": "red"
+    },
+    {
+        "thumb": "images/demo2_thumb.jpg",
+        "full": "images/demo2.jpg",
+        "category": "mua",
+        "color": "blue"
+    },
+    {
+        "youtube": "dQw4w9WgXcQ",
+        "category": "hientai",
+        "color": "black"
+    }
+]
