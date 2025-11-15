@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dance Gallery</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <h1>Dance Gallery</h1>
+    <div class="filters">
+        <select id="categoryFilter">
+            <option value="all">Tất cả thể loại</option>
+            <option value="nhay">Nhảy</option>
+            <option value="mua">Múa</option>
+            <option value="hientai">Hiện đại</option>
+            <option value="truyenthong">Truyền thống</option>
+        </select>
+
+        <select id="colorFilter">
+            <option value="all">Tất cả màu sắc</option>
+            <option value="red">Đỏ</option>
+            <option value="blue">Xanh</option>
+            <option value="black">Đen</option>
+            <option value="white">Trắng</option>
+        </select>
+    </div>
+</header>
+
+<div class="gallery" id="gallery"></div>
+
+<div id="viewer" class="viewer hidden">
+    <span id="closeViewer">×</span>
+    <img id="viewerImg" src="">
+    <iframe id="viewerVideo" src="" allowfullscreen></iframe>
+</div>
+
+<script src="js/main.js"></script>
+</body>
+</html>
